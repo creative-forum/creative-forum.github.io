@@ -13,6 +13,12 @@ email: alex.gil@yale.edu
 logo: "/assets/images/creative-forum-abb-logo.png"
 float_logo: true # true, false (default)
 
+# Collections
+collections:
+  programs:
+    output: true
+    permalink: /:collection/:title
+
 # blog cover
 cover: "/assets/images/main-background.jpg"
 
