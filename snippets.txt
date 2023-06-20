@@ -1,0 +1,3 @@
+Snippet from post.html layout, on line 25:
+
+<!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
